@@ -1,0 +1,6 @@
+I am working on a journal paper related to this project, so the paper and code are kept private. Please email me at flegros [at] stanford.edu if you are interested in reading the paper or seeing the code.
+
+“Hamstring Surgery Outcome Prediction with Linear Continuous Bayesian Networks” 
+F. Legros, M. Fiterau, J. Hicks, M. Schwartz, S.L. Delp 
+Published in NIPS Symposium on Interpretable Machine Learning, 2017
+Also presented at Big Data for Biomedicine, 2017
